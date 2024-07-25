@@ -1,0 +1,9 @@
+dev1.dev.inlanefreight.htb. 604800 IN	A	10.12.3.6
+ns.dev.inlanefreight.htb. 604800 IN	A	127.0.0.1
+dev1.dev.inlanefreight.htb. 604800 IN	A	10.12.3.6
+ns.dev.inlanefreight.htb. 604800 IN	A	127.0.0.1
+win2k.dev.inlanefreight.htb. 604800 IN	A	10.12.3.203
+dev1.dev.inlanefreight.htb. 604800 IN	A	10.12.3.6
+dev1.dev.inlanefreight.htb. 604800 IN	A	10.12.3.6
+ns.dev.inlanefreight.htb. 604800 IN	A	127.0.0.1
+dev1.dev.inlanefreight.htb. 604800 IN	A	10.12.3.6
